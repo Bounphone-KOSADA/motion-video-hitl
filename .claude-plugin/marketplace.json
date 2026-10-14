@@ -1,0 +1,13 @@
+{
+  "name": "bounphone-video-skills",
+  "owner": { "name": "Bounphone Kosada" },
+  "metadata": { "description": "Human-in-the-loop animated video skills for Claude, in English and Lao." },
+  "plugins": [
+    {
+      "name": "motion-video-hitl",
+      "source": "./",
+      "description": "Animated motion video studio with an approval gate at every stage.",
+      "version": "1.0.0"
+    }
+  ]
+}

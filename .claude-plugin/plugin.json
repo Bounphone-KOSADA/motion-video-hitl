@@ -1,0 +1,10 @@
+{
+  "name": "motion-video-hitl",
+  "description": "Make an original animated motion video in code from a topic, with your approval at every stage: topic, script, character sheet, scenes, sound effects, English/Lao dub.",
+  "version": "1.0.0",
+  "author": { "name": "Bounphone Kosada" },
+  "homepage": "https://github.com/Bounphone-KOSADA/claude-video-skills",
+  "repository": "https://github.com/Bounphone-KOSADA/claude-video-skills",
+  "license": "MIT",
+  "keywords": ["video", "animation", "motion", "lao", "tts", "skill"]
+}
